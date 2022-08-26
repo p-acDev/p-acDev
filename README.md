@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Model &lpar;__getitem__&lpar;&rpar;&rpar;](https://dev.to/pacdev/data-model-getitem-4fo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
