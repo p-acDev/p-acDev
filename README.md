@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Apache Airflow and GCP**
 
-- 👯 I’m looking to collaborate on [tool-box](https://github.com/p-acDev/tool-box.git)
+- 👯 I’m looking to collaborate on [tool-box](https://github.com/p-acDev/tool-box.git), [find-good-first-issues](https://github.com/p-acDev/find-good-first-issues.git)
 
 - 📝 I regularly write articles on [www.pacdev.net](www.pacdev.net)
 
