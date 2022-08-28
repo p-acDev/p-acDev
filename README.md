@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Beans !](https://dev.to/pacdev/beans--2jja)
 - [Update de fichier](https://dev.to/pacdev/update-de-fichier-ii5)
 - [Data Model &lpar;__getitem__&lpar;&rpar;&rpar;](https://dev.to/pacdev/data-model-getitem-4fo)
 <!-- BLOG-POST-LIST:END -->
