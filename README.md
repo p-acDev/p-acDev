@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Jupyter notebook &amp; environnement virtuel](https://dev.to/pacdev/jupyter-notebook-environnement-virtuel-1ind)
 - [Envie de contribuer à des projets open source sur Github ? &lpar;1/2&rpar;](https://dev.to/pacdev/envie-de-contribuer-a-des-projets-open-source-sur-github-12-1hcc)
 - [Beans !](https://dev.to/pacdev/beans--2jja)
 - [Update de fichier](https://dev.to/pacdev/update-de-fichier-ii5)
-- [Data Model &lpar;__getitem__&lpar;&rpar;&rpar;](https://dev.to/pacdev/data-model-getitem-4fo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
