@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [here](https://www.pacdev.net/about/)
 
-- ⚡ Fun fact **I am suffering a lot on tatami when I pratice BJJ**
+- ⚡ Fun fact **I am suffering a lot on tatami when I pratice BJJ 🥷**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
