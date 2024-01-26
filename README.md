@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with [find-good-first-issues](https://github.com/p-acDev/find-good-first-issues.git)
 
-- 👨‍💻 All of my projects are available at [[[https://www.pacdev.net/informations/about](https://www.pacdev.net/portfolio/projets/)](https://www.pacdev.net/portfolio/projets/)](https://www.pacdev.net/portfolio/projets/)
+- 👨‍💻 All of my projects are available at [https://www.pacdev.net/informations/about](https://www.pacdev.net/portfolio/projets/)
 
-- 📝 I regularly write articles on [[https://www.pacdev.net/articles/2022](https://p-acdev.github.io)](https://p-acdev.github.io)
+- 📝 I regularly write articles on [[https://www.pacdev.net/articles/2022](https://p-acdev.github.io)
 
-- 📄 Know about my experiences [[https://www.pacdev.net/informations/mon-cv](https://www.pacdev.net/about/)](https://www.pacdev.net/about/)
+- 📄 Know about my experiences [https://www.pacdev.net/informations/mon-cv](https://www.pacdev.net/about/)
 
 - ⚡ Fun fact **I am suffering a lot on tatami when I pratice BJJ**
 
